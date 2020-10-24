@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(117, 117, 117);
+}
+
+.img-cont {
+    position: relative;
+    margin-top: 1em;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-shadow: 3px 3px rgb(61, 61, 61);
+    letter-spacing: 0.3em;
+    font-size: 4em;
+    text-align: center;
+}
+
+
+.input-group-prepend div {
+    background-color: rgb(34, 34, 34) !important;
+}
+
+.input-group-text i {
+    color: rgb(111, 250, 153);
+    font-size: larger;
+}
+
+.input-group input {
+    font-size: larger;
+}
+
+.input-group input:focus {
+    border: 2px solid rgb(111, 250, 153) !important;   
+}
+
+.styleWeather h3 {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.styleWeather .display-4 {
+    font-size: 2em;
+}
+
+hr {
+    border-width: 3px !important;
+}
+
+.table-striped {
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+.table-striped td, .table-striped th {
+    font-size: 1em;
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .centered {
+      font-size: 3em;
+    }
+
+    .styleWeather .display-3 {
+        font-size: 3em;
+    }
+    .styleWeather i {
+        font-size: 6em;
+    }
+  }
+
+  /* @media only screen and (max-width: 991px) {
+    .styleWeather .display-3 {
+        font-size: 2.5em;
+    }
+  } */
