@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-jerocam/static/css/main.123fdbb1.chunk.css",
+    "main.js": "/weather-jerocam/static/js/main.05f3a1d4.chunk.js",
+    "main.js.map": "/weather-jerocam/static/js/main.05f3a1d4.chunk.js.map",
+    "runtime-main.js": "/weather-jerocam/static/js/runtime-main.662793a2.js",
+    "runtime-main.js.map": "/weather-jerocam/static/js/runtime-main.662793a2.js.map",
+    "static/js/2.ef54c3b2.chunk.js": "/weather-jerocam/static/js/2.ef54c3b2.chunk.js",
+    "static/js/2.ef54c3b2.chunk.js.map": "/weather-jerocam/static/js/2.ef54c3b2.chunk.js.map",
+    "static/js/3.03457ae5.chunk.js": "/weather-jerocam/static/js/3.03457ae5.chunk.js",
+    "static/js/3.03457ae5.chunk.js.map": "/weather-jerocam/static/js/3.03457ae5.chunk.js.map",
+    "index.html": "/weather-jerocam/index.html",
+    "static/css/main.123fdbb1.chunk.css.map": "/weather-jerocam/static/css/main.123fdbb1.chunk.css.map",
+    "static/js/2.ef54c3b2.chunk.js.LICENSE.txt": "/weather-jerocam/static/js/2.ef54c3b2.chunk.js.LICENSE.txt",
+    "static/media/ArtWeather.33df347c.png": "/weather-jerocam/static/media/ArtWeather.33df347c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662793a2.js",
+    "static/js/2.ef54c3b2.chunk.js",
+    "static/css/main.123fdbb1.chunk.css",
+    "static/js/main.05f3a1d4.chunk.js"
+  ]
+}
