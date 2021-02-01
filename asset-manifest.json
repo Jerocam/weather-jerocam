@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weather-jerocam/static/css/main.6c1bacd7.chunk.css",
-    "main.js": "/weather-jerocam/static/js/main.e7b8bfa4.chunk.js",
-    "main.js.map": "/weather-jerocam/static/js/main.e7b8bfa4.chunk.js.map",
+    "main.js": "/weather-jerocam/static/js/main.24cb97ec.chunk.js",
+    "main.js.map": "/weather-jerocam/static/js/main.24cb97ec.chunk.js.map",
     "runtime-main.js": "/weather-jerocam/static/js/runtime-main.fa745a91.js",
     "runtime-main.js.map": "/weather-jerocam/static/js/runtime-main.fa745a91.js.map",
     "static/js/2.dfdfc0e6.chunk.js": "/weather-jerocam/static/js/2.dfdfc0e6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fa745a91.js",
     "static/js/2.dfdfc0e6.chunk.js",
     "static/css/main.6c1bacd7.chunk.css",
-    "static/js/main.e7b8bfa4.chunk.js"
+    "static/js/main.24cb97ec.chunk.js"
   ]
 }
